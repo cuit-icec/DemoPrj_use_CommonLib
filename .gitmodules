@@ -1,0 +1,3 @@
+[submodule "Core/CommmonLib"]
+	path = Core/CommmonLib
+	url = https://github.com/cuit-icec/CommonLib_Demo.git
